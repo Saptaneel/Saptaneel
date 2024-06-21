@@ -13,7 +13,7 @@
 <a href="https://instagram.com/saptaneel23chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saptaneel23chakraborty" height="30" width="40" /></a>
 </p>
 
-- 🌱 I’m currently learning **GOLANG, Machine Learning, DSA**
+- 🌱 I’m currently learning **GOLANG, AI/ML, DSA**
 
 - 💬 Ask me about **WEB DEV, JAVA, SQL, PYTHON**
 
